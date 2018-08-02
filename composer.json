@@ -1,0 +1,20 @@
+{
+    "name": "ewertomachado/brmoney",
+    "description": "Money formatter for brazilians",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ewerton Macahdo",
+            "email": "ewertonm4ch4ado@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "BrMoney\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
